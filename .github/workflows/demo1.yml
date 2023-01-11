@@ -1,10 +1,7 @@
 name: Events Demo 1
 on:
   push:
-    paths:
-      - "src/*"
-      - public/*
-      - "*"
+
     branches:
       - "main"
       - "qa"
