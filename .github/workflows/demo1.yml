@@ -4,7 +4,7 @@ on:
     paths:
       - "src/*"
       - public/*
-      - "*/*"
+      - "*"
     branches:
       - "main"
       - "qa"
